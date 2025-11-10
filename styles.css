@@ -69,10 +69,10 @@ a:hover{
     width: 100%;
     padding-left: 30px;
     padding-bottom: 57px;
-    background-image: url(images/icon.png);
+    /*background-image: url(images/icon.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center;*/
 }
 
 .home-image{
@@ -80,6 +80,15 @@ a:hover{
     border-width: 2px;
     border-radius: 15px;
     border-color: darkblue;
+}
+
+.content p{
+    color:#8579ff;
+}
+
+.content .abtMeText{
+    color:brown;
+    text-decoration: underline;
 }
 
 /* .list-aboutme{
@@ -96,4 +105,18 @@ footer{
     padding-top: 10px;
     padding-bottom: 10px;
     font-size: 20px;
+}
+
+.project-table{
+    
+    border-collapse: collapse;
+    margin: auto;
+
+    margin-top: 10px;
+}
+
+.project-table td, .project-table th{
+    border: 1px dashed black;
+    padding: 3px;
+    text-align: center;
 }
