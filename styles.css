@@ -67,7 +67,6 @@ a:hover{
 
 .content{
     width: 100%;
-    padding-left: 30px;
     padding-bottom: 57px;
     /*background-image: url(images/icon.png);
     background-repeat: no-repeat;
@@ -91,9 +90,10 @@ a:hover{
     text-decoration: underline;
 }
 
-/* .list-aboutme{
+.list-aboutme{
     list-style-type: lower-roman;
-} */
+    padding-left: 30px;
+}
 
 footer{
     width: 100%;
