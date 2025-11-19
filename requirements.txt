@@ -1,0 +1,15 @@
+4 web pages
+
+header with links to navigate among pages
+
+footer with students name
+
+use of following tags at least once
+- <p>
+- <b>
+- <i>
+- <h1>...<h6>
+- table, tr, td, th
+- form, label, input, legend, fieldset
+- <ul> and/or <ol>, <li>
+- <br/>
